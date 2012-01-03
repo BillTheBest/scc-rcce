@@ -55,7 +55,7 @@ RCCE_RPC_REGULATOR *RCCE_RPC_regulator;
 
 // the following array contains triples of voltage/VID value/max_frequency  
 triple RC_V_MHz_cap[] = {
-/* 0 */ {0.7, 0x70, 460},
+/* 0 */ {0.8, 0x80, 460},
 /* 1 */ {0.8, 0x80, 598},
 /* 2 */ {0.9, 0x90, 644},
 /* 3 */ {1.0, 0xA0, 748},
